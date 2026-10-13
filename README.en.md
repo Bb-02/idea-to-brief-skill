@@ -122,4 +122,4 @@ In other clients, select `idea-to-brief` through the skill interface. Automatic 
 
 ---
 
-[More examples](examples.md) · [Test cases](tests/cases.md) · [Validation record](tests/results.md) (Chinese) · [Skill source](skills/idea-to-brief/SKILL.md) · [MIT](LICENSE)
+[Example requests](examples.en.md) · [Skill source](skills/idea-to-brief/SKILL.md) · [MIT](LICENSE)

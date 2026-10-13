@@ -122,4 +122,4 @@ $idea-to-brief 调查个人开发者怎么推广作品，
 
 ---
 
-[更多示例](examples.md) · [测试案例](tests/cases.md) · [验证记录](tests/results.md) · [Skill 源码](skills/idea-to-brief/SKILL.md) · [MIT](LICENSE)
+[提问示例](examples.md) · [Skill 源码](skills/idea-to-brief/SKILL.md) · [MIT](LICENSE)
