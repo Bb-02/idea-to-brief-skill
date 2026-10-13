@@ -1,6 +1,6 @@
 # Brief patterns
 
-Use these as adaptable examples for the primary deliverable: a self-contained task description. Match the user's language; Chinese output can simply use “任务说明”, “研究任务”, or “提示词”, without a fixed label. The research instructions are for the recipient; drafting them does not mean running the research now.
+Read this in task design mode when a sample format or portability check helps. The deliverable is a self-contained task description. Match the user's language; Chinese output can simply use “任务说明”, “研究任务”, or “提示词”, without a fixed label. The research instructions are for the recipient; drafting them does not mean running the research now. Direct research does not need to generate or fill in these patterns first.
 
 ## Short search prompt
 
