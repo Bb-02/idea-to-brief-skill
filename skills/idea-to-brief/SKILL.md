@@ -3,7 +3,7 @@ name: idea-to-brief
 description: Turn rough ideas into research briefs/prompts, or investigate open-ended questions when users want findings. Use for searches and comparisons needing scope, source or evidence choices, not routine facts. Honor the requested deliverable.
 license: MIT
 metadata:
-  version: "0.3.0"
+  version: "1.0.0"
 ---
 
 # Idea to Brief
