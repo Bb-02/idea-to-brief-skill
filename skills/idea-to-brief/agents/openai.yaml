@@ -1,3 +1,3 @@
 interface:
   display_name: "想法成案 · Idea to Brief"
-  short_description: "将零散想法转化为清晰、适度且可独立执行的研究 Brief 或提示词"
+  short_description: "将零散想法整理成清晰、适度、可独立交给 AI 执行的研究任务"

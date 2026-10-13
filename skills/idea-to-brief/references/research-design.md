@@ -4,7 +4,7 @@ Read this when designing the methods in a practical investigation or deep-resear
 
 ## Find the useful question
 
-Start with what the user wants to decide, understand, or do. Translate the topic into questions whose answers affect that purpose. For each material assumption, consider what observation would support it and what would change the proposed direction.
+Start with what the user wants to decide, understand, or do now; keep possible future use secondary unless the user makes it the assignment. Translate the topic into questions whose answers affect that purpose. Preserve personal observations without treating them as established population-level claims. For each material assumption, consider what observation would support it and what would change the proposed direction; do not present your proposed explanation or bias diagnosis as a finding.
 
 For example, “find theories to market a planner” may suggest two questions: who experiences a problem the product can solve, and what evidence supports the promised benefit? Make that interpretation visible in the draft rather than declaring a hidden goal or withholding a draft until it is approved. Do not turn an illustrative habit duration into a scientific premise or the product's only positioning.
 
@@ -17,12 +17,14 @@ Add a missing angle when you can explain how it might change the answer. Prefer 
 | Discover options or inspiration | Explore distinct use cases and source communities; vary search terms beyond the user's examples; check existence, fit, and duplicates. | A varied, usable selection that explains why each item belongs. Exhaustive coverage is only needed when requested. |
 | Compare options for a decision | Identify decisive constraints and tradeoffs; collect evidence for the same questions across candidates; investigate unknowns that could reverse the choice. | Conditional recommendations, with unsupported comparisons left unresolved. No forced universal winner. |
 | Diagnose or assess a proposed technical change | Inspect project requirements, implementation, and measurements; separate observed symptoms from possible causes; propose the smallest useful test of competing explanations. | A supported diagnosis or a concrete next measurement, plus options that preserve agreed requirements. General documentation does not establish this project's bottleneck. |
-| Learn or develop judgment | Combine principles with contrasting cases; explain the mechanism, conditions, and exceptions; apply the resulting criteria to an example. | The user can make and explain a judgment in a new situation. An impressive list of terminology is insufficient. |
+| Learn or develop judgment | Start with a focused explanation and informative comparisons; distinguish candidate mechanisms from established findings and note conditions that matter. | The user understands the question better and can identify useful implications. Formal design principles or a comprehensive literature review require a corresponding need. |
 | Explore feasible ideas | Diversify mechanisms or user situations, then screen against resources and goals; separate evidence about precedents from original proposals; identify cheap tests of the strongest uncertainties. | Candidates with a concrete experience, practical limits, and a next validation step. Creativity does not require fictitious proof of demand. |
 
 A task may combine purposes. Keep their roles clear: a broad search can discover candidates before a focused comparison; a diagnostic investigation can precede development. Do not automatically run every method for every candidate.
 
 ## Calibrate the assignment
+
+For exploratory curiosity, a concise explanation with selected evidence and a few relevant implications may be enough. Do not automatically combine every related discipline, venue type, theory, and application into the assignment. Leave budgets and future project conditions unknown when they do not affect the immediate question; use conditional implications where relevant. Judge scope by the requested use, not by how many sections could be written about the topic.
 
 - **Simple search:** specify coverage axes that add variety, source families, basic screening, deduplication, and a compact output. “Excellent solo projects” may call for varied platforms and uses, project homepages and creator accounts, checks on who made it, and a reason it is worth studying. It does not automatically need a business teardown of every item.
 - **Practical investigation:** design for use. For promotion methods, ask for suitable products, places to reach people, material to prepare, concrete steps and example messages, follow-up, effort, and signals for continuing or stopping. Separate different product types when the action differs; keep case experience distinct from recommendations.

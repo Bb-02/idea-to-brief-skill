@@ -1,6 +1,6 @@
 # Brief patterns
 
-Use these as adaptable examples for the primary deliverable: a self-contained Brief / Prompt. Match the user's language. The research instructions are for the recipient; drafting them does not mean running the research now.
+Use these as adaptable examples for the primary deliverable: a self-contained task description. Match the user's language; Chinese output can simply use “任务说明”, “研究任务”, or “提示词”, without a fixed label. The research instructions are for the recipient; drafting them does not mean running the research now.
 
 ## Short search prompt
 
@@ -20,7 +20,7 @@ The brief gives the executor a way to test the premise without presuming a repla
 
 ## Fuller research plan
 
-Use a structure like this when the work has several important questions or tradeoffs. Include only useful sections:
+Use a structure like this when the user wants a substantial learning assignment with several important questions or tradeoffs. Casual interest alone does not require it. Include only useful sections:
 
 ```markdown
 # 移动端 UI 研究计划
